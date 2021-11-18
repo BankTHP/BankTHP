@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BankTHP
+- 👋 Hi
 
 
 <br />
